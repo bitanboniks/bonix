@@ -1,0 +1,5 @@
+# bonix
+git clone https://github.com/dprandzioch/docker-ddns
+cd docker-ddns
+$EDITOR envfile
+make deploy
